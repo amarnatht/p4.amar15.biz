@@ -1,0 +1,24 @@
+2013-11-03 17:23:58 - INFO --> -------------------------- 
+2013-11-03 17:23:58 - INFO --> Controller/Method: posts/p_add 
+2013-11-03 17:23:58 - INFO --> From: Sample App (webmaster@sample-app.com) 
+2013-11-03 17:23:58 - INFO --> To: Sample App (webmaster@myapp.com),  
+2013-11-03 17:23:58 - INFO --> CC:  
+2013-11-03 17:23:58 - INFO --> BCC:  
+2013-11-03 17:23:58 - INFO --> Subject: Sample App SQL Error 
+2013-11-03 17:23:58 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET content = 'This is second post', user_id = '12', created = '1383517438', modified = '1383517438' Duplicate entry '0' for key 'PRIMARY'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'b5557ae4f41785ce10e137196e3c9922b68a918d'
+					LIMIT 1 
+2013-11-03 17:23:59 - INFO --> FAILED TO SEND EMAIL 
+2013-11-03 17:24:56 - INFO --> -------------------------- 
+2013-11-03 17:24:56 - INFO --> Controller/Method: posts/p_add 
+2013-11-03 17:24:56 - INFO --> From: Sample App (webmaster@sample-app.com) 
+2013-11-03 17:24:56 - INFO --> To: Sample App (webmaster@myapp.com),  
+2013-11-03 17:24:56 - INFO --> CC:  
+2013-11-03 17:24:56 - INFO --> BCC:  
+2013-11-03 17:24:56 - INFO --> Subject: Sample App SQL Error 
+2013-11-03 17:24:56 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET content = 'This  is second post', user_id = '12', created = '1383517496', modified = '1383517496' Duplicate entry '0' for key 'PRIMARY'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = 'b5557ae4f41785ce10e137196e3c9922b68a918d'
+					LIMIT  
+2013-11-03 17:24:56 - INFO --> FAILED TO SEND EMAIL 

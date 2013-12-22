@@ -1,0 +1,67 @@
+/*  to set page margins - used it in the body tag */
+#lpage {    
+width: 900px;   
+margin: 0 auto; 
+} 
+
+/* to style to the header   */ 
+#talign { 
+top:0px; 
+left: 0px; 
+background-color: #43BB75; 
+color: #fff;
+padding: .10em 6em;
+} 
+
+
+/* styling menu */
+#menu ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: center;
+}
+
+/* styling menu - display in single line */
+#menu ul li { display: inline; }
+
+/* styling menu - text*/
+#menu ul li a
+{
+text-decoration: none;
+padding: .4em 1em;
+color: #fff;
+background-color: #43BB75;
+border-radius:50px;
+}
+
+/* styling menu - setting hover effect*/
+#menu ul li a:hover
+{
+color: #fff;
+background-color: #43BB75;
+}
+
+
+table
+{
+border-collapse:collapse;
+width:80%;
+}
+
+table,th, td
+{
+border: 1px solid black;
+padding:10px;
+}
+
+tr:nth-child(odd) {background-color: #ccc;}
+tr:nth-child(even) {background-color: #ddd;}
+
+
+textarea{
+width: 650px;
+height:90px;
+
+}

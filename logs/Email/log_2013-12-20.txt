@@ -1,0 +1,420 @@
+2013-12-20 20:06:31 - INFO --> -------------------------- 
+2013-12-20 20:06:31 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 20:06:31 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 20:06:31 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 20:06:31 - INFO --> CC:  
+2013-12-20 20:06:31 - INFO --> BCC:  
+2013-12-20 20:06:31 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 20:06:31 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SET content = 'first', user_user_id = '33', FirstName = 'test', LastName = 'test', PickupTime = '12/12/20', PickupLocation = '02210', DropLocation = '01801', VechileType = 'Sedan', PaymentType = 'Cash', TotalAmount = '235.78', RideStatus = 'Active', Commen 
+2013-12-20 20:06:32 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 20:40:50 - INFO --> -------------------------- 
+2013-12-20 20:40:50 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 20:40:50 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 20:40:50 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 20:40:50 - INFO --> CC:  
+2013-12-20 20:40:50 - INFO --> BCC:  
+2013-12-20 20:40:50 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 20:40:50 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SET content = 'test', FirstName = 'test' Table 'amarnath_p2_amar15_biz.reservations' doesn't exist<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = INSERT INTO reservations  
+2013-12-20 20:40:51 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 20:43:42 - INFO --> -------------------------- 
+2013-12-20 20:43:42 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 20:43:42 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 20:43:42 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 20:43:42 - INFO --> CC:  
+2013-12-20 20:43:42 - INFO --> BCC:  
+2013-12-20 20:43:42 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 20:43:42 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SET content = 'test', FirstName = 'test' Unknown column 'content' in 'field list'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = INSERT INTO reservations SET content = 'te 
+2013-12-20 20:43:43 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 20:54:50 - INFO --> -------------------------- 
+2013-12-20 20:54:50 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 20:54:50 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 20:54:50 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 20:54:50 - INFO --> CC:  
+2013-12-20 20:54:50 - INFO --> BCC:  
+2013-12-20 20:54:50 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 20:54:50 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SET content = 'dsafdsfdsf' Unknown column 'content' in 'field list'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = INSERT INTO reservations SET content = 'dsafdsfdsf'<br>< 
+2013-12-20 20:54:51 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 20:57:31 - INFO --> -------------------------- 
+2013-12-20 20:57:31 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 20:57:31 - INFO --> From:  CSCI E-15  P4 Blog  (deals4ak@gmail.com) 
+2013-12-20 20:57:31 - INFO --> To:  CSCI E-15  P4 Blog  (deals4ak@gmail.com),  
+2013-12-20 20:57:31 - INFO --> CC:  
+2013-12-20 20:57:31 - INFO --> BCC:  
+2013-12-20 20:57:31 - INFO --> Subject:  CSCI E-15  P4 Blog  SQL Error 
+2013-12-20 20:57:31 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SE You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SE' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d077 
+2013-12-20 20:57:31 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 20:57:36 - INFO --> -------------------------- 
+2013-12-20 20:57:36 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 20:57:36 - INFO --> From:  CSCI E-15  P4 Blog  (deals4ak@gmail.com) 
+2013-12-20 20:57:36 - INFO --> To:  CSCI E-15  P4 Blog  (deals4ak@gmail.com),  
+2013-12-20 20:57:36 - INFO --> CC:  
+2013-12-20 20:57:36 - INFO --> BCC:  
+2013-12-20 20:57:36 - INFO --> Subject:  CSCI E-15  P4 Blog  SQL Error 
+2013-12-20 20:57:36 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SE You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SE' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d077 
+2013-12-20 20:57:36 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 20:58:12 - INFO --> -------------------------- 
+2013-12-20 20:58:12 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 20:58:12 - INFO --> From:  CSCI E-15  P4 Blog  (deals4ak@gmail.com) 
+2013-12-20 20:58:12 - INFO --> To:  CSCI E-15  P4 Blog  (deals4ak@gmail.com),  
+2013-12-20 20:58:12 - INFO --> CC:  
+2013-12-20 20:58:12 - INFO --> BCC:  
+2013-12-20 20:58:12 - INFO --> Subject:  CSCI E-15  P4 Blog  SQL Error 
+2013-12-20 20:58:12 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SET content = 'test' Unknown column 'content' in 'field list'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = INSERT INTO reservations SET content = 'test'<br><h2>SERVER</h 
+2013-12-20 20:58:12 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 20:59:12 - INFO --> -------------------------- 
+2013-12-20 20:59:12 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 20:59:12 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 20:59:12 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 20:59:12 - INFO --> CC:  
+2013-12-20 20:59:12 - INFO --> BCC:  
+2013-12-20 20:59:12 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 20:59:12 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SE You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SE' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d077 
+2013-12-20 20:59:13 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 20:59:21 - INFO --> -------------------------- 
+2013-12-20 20:59:21 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 20:59:21 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 20:59:21 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 20:59:21 - INFO --> CC:  
+2013-12-20 20:59:21 - INFO --> BCC:  
+2013-12-20 20:59:21 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 20:59:21 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SE You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SE' at line 1<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d077 
+2013-12-20 20:59:22 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 21:01:31 - INFO --> -------------------------- 
+2013-12-20 21:01:31 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 21:01:31 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 21:01:31 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 21:01:31 - INFO --> CC:  
+2013-12-20 21:01:31 - INFO --> BCC:  
+2013-12-20 21:01:31 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 21:01:31 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET content = 'sdfgdsfg', user_id = '33', created = '1387591291', modified = '1387591291' Unknown column 'content' in 'field list'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 =  
+2013-12-20 21:01:32 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 21:02:55 - INFO --> -------------------------- 
+2013-12-20 21:02:55 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 21:02:55 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 21:02:55 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 21:02:55 - INFO --> CC:  
+2013-12-20 21:02:55 - INFO --> BCC:  
+2013-12-20 21:02:55 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 21:02:55 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET firstName = 'aklfjsdkfjasdkflkasdj;asd', user_id = '33', created = '1387591375', modified = '1387591375' Unknown column 'firstName' in 'field list'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7' 
+2013-12-20 21:02:56 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 21:12:53 - INFO --> -------------------------- 
+2013-12-20 21:12:53 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 21:12:53 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 21:12:53 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 21:12:53 - INFO --> CC:  
+2013-12-20 21:12:53 - INFO --> BCC:  
+2013-12-20 21:12:53 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 21:12:53 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SET FirstName = 'aksdfjasdlfjaskdj', user_id = '33', created = '1387591973', modified = '1387591973' Unknown column 'user_id' in 'field list'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+		 
+2013-12-20 21:12:54 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 21:16:45 - INFO --> -------------------------- 
+2013-12-20 21:16:45 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 21:16:45 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 21:16:45 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 21:16:45 - INFO --> CC:  
+2013-12-20 21:16:45 - INFO --> BCC:  
+2013-12-20 21:16:45 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 21:16:45 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET first_name = 'still post' Cannot add or update a child row: a foreign key constraint fails (`p4_amar15_biz`.`posts`, CONSTRAINT `posts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE ON UPDATE CASCADE)<h2>Query History</h2>0 = 
+2013-12-20 21:16:46 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 21:18:10 - INFO --> -------------------------- 
+2013-12-20 21:18:10 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 21:18:10 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 21:18:10 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 21:18:10 - INFO --> CC:  
+2013-12-20 21:18:10 - INFO --> BCC:  
+2013-12-20 21:18:10 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 21:18:10 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET first_name = 'still post' Cannot add or update a child row: a foreign key constraint fails (`p4_amar15_biz`.`posts`, CONSTRAINT `posts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE ON UPDATE CASCADE)<h2>Query History</h2>0 = 
+2013-12-20 21:18:11 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 21:18:42 - INFO --> -------------------------- 
+2013-12-20 21:18:42 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 21:18:42 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 21:18:42 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 21:18:42 - INFO --> CC:  
+2013-12-20 21:18:42 - INFO --> BCC:  
+2013-12-20 21:18:42 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 21:18:42 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET first_name = 'still post' Cannot add or update a child row: a foreign key constraint fails (`p4_amar15_biz`.`posts`, CONSTRAINT `posts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE ON UPDATE CASCADE)<h2>Query History</h2>0 = 
+2013-12-20 21:18:43 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 21:31:12 - INFO --> -------------------------- 
+2013-12-20 21:31:12 - INFO --> Controller/Method: posts/p_add 
+2013-12-20 21:31:12 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 21:31:12 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 21:31:12 - INFO --> CC:  
+2013-12-20 21:31:12 - INFO --> BCC:  
+2013-12-20 21:31:12 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 21:31:12 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO posts SET first_name = 'Some', last_name = 'User', pickup_name = '12/12/2012', pickup_location = '02210', dropoff_location = '01801', vehicle_type = '1', payment_type = '1', user_id = '33', created = '1387593071', modified = '1387593071' Unknown column 'pickup_name' in 
+2013-12-20 21:31:13 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 22:01:15 - INFO --> -------------------------- 
+2013-12-20 22:01:15 - INFO --> Controller/Method: posts/index 
+2013-12-20 22:01:15 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 22:01:15 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 22:01:15 - INFO --> CC:  
+2013-12-20 22:01:15 - INFO --> BCC:  
+2013-12-20 22:01:15 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 22:01:15 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+            users_users.user_id AS follower_id,
+            users.first_name,
+            users.last_name
+        FROM posts
+        INNER JOIN users_users 
+           
+2013-12-20 22:01:16 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 22:27:23 - INFO --> -------------------------- 
+2013-12-20 22:27:23 - INFO --> Controller/Method: posts/open 
+2013-12-20 22:27:23 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 22:27:23 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 22:27:23 - INFO --> CC:  
+2013-12-20 22:27:23 - INFO --> BCC:  
+2013-12-20 22:27:23 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 22:27:23 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+        FROM reservations
+        WHERE reservation_id = js Unknown column 'js' in 'where clause'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = SELECT * 
+        FROM reservations
+  
+2013-12-20 22:27:24 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 22:27:37 - INFO --> -------------------------- 
+2013-12-20 22:27:37 - INFO --> Controller/Method: posts/open 
+2013-12-20 22:27:37 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 22:27:37 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 22:27:37 - INFO --> CC:  
+2013-12-20 22:27:37 - INFO --> BCC:  
+2013-12-20 22:27:37 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 22:27:37 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+        FROM reservations
+        WHERE reservation_id = js Unknown column 'js' in 'where clause'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = SELECT * 
+        FROM reservations
+  
+2013-12-20 22:27:38 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 22:31:06 - INFO --> -------------------------- 
+2013-12-20 22:31:06 - INFO --> Controller/Method: posts/open 
+2013-12-20 22:31:06 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 22:31:06 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 22:31:06 - INFO --> CC:  
+2013-12-20 22:31:06 - INFO --> BCC:  
+2013-12-20 22:31:06 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 22:31:06 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+        FROM reservations
+        WHERE reservation_id = js Unknown column 'js' in 'where clause'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = SELECT * 
+        FROM reservations
+  
+2013-12-20 22:31:07 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 22:31:45 - INFO --> -------------------------- 
+2013-12-20 22:31:45 - INFO --> Controller/Method: posts/open 
+2013-12-20 22:31:45 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 22:31:45 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 22:31:45 - INFO --> CC:  
+2013-12-20 22:31:45 - INFO --> BCC:  
+2013-12-20 22:31:45 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 22:31:45 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+        FROM reservations
+        WHERE reservation_id = js Unknown column 'js' in 'where clause'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = SELECT * 
+        FROM reservations
+  
+2013-12-20 22:31:46 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 22:32:57 - INFO --> -------------------------- 
+2013-12-20 22:32:57 - INFO --> Controller/Method: posts/open 
+2013-12-20 22:32:57 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 22:32:57 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 22:32:57 - INFO --> CC:  
+2013-12-20 22:32:57 - INFO --> BCC:  
+2013-12-20 22:32:57 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 22:32:57 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+        FROM reservations
+        WHERE reservation_id = js Unknown column 'js' in 'where clause'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = SELECT * 
+        FROM reservations
+  
+2013-12-20 22:32:58 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 22:33:16 - INFO --> -------------------------- 
+2013-12-20 22:33:16 - INFO --> Controller/Method: posts/open 
+2013-12-20 22:33:16 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 22:33:16 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 22:33:16 - INFO --> CC:  
+2013-12-20 22:33:16 - INFO --> BCC:  
+2013-12-20 22:33:16 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 22:33:16 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+        FROM reservations
+        WHERE reservation_id = js Unknown column 'js' in 'where clause'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = SELECT * 
+        FROM reservations
+  
+2013-12-20 22:33:17 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 22:36:38 - INFO --> -------------------------- 
+2013-12-20 22:36:38 - INFO --> Controller/Method: posts/open 
+2013-12-20 22:36:38 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 22:36:38 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 22:36:38 - INFO --> CC:  
+2013-12-20 22:36:38 - INFO --> BCC:  
+2013-12-20 22:36:38 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 22:36:38 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+        FROM reservations
+        WHERE reservation_id = js Unknown column 'js' in 'where clause'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = SELECT * 
+        FROM reservations
+  
+2013-12-20 22:36:39 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 22:37:04 - INFO --> -------------------------- 
+2013-12-20 22:37:04 - INFO --> Controller/Method: posts/open 
+2013-12-20 22:37:04 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 22:37:04 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 22:37:04 - INFO --> CC:  
+2013-12-20 22:37:04 - INFO --> BCC:  
+2013-12-20 22:37:04 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 22:37:04 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+        FROM reservations
+        WHERE reservation_id = js Unknown column 'js' in 'where clause'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = SELECT * 
+        FROM reservations
+  
+2013-12-20 22:37:05 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 22:37:40 - INFO --> -------------------------- 
+2013-12-20 22:37:40 - INFO --> Controller/Method: posts/index 
+2013-12-20 22:37:40 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 22:37:40 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 22:37:40 - INFO --> CC:  
+2013-12-20 22:37:40 - INFO --> BCC:  
+2013-12-20 22:37:40 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 22:37:40 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+            users_users.user_id AS follower_id,
+            users.first_name,
+            users.last_name
+        FROM posts
+        INNER JOIN users_users 
+           
+2013-12-20 22:37:41 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 22:39:50 - INFO --> -------------------------- 
+2013-12-20 22:39:50 - INFO --> Controller/Method: posts/index 
+2013-12-20 22:39:50 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 22:39:50 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 22:39:50 - INFO --> CC:  
+2013-12-20 22:39:50 - INFO --> BCC:  
+2013-12-20 22:39:50 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 22:39:50 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+            users_users.user_id AS follower_id,
+            users.first_name,
+            users.last_name
+        FROM posts
+        INNER JOIN users_users 
+           
+2013-12-20 22:39:51 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 22:56:16 - INFO --> -------------------------- 
+2013-12-20 22:56:16 - INFO --> Controller/Method: posts/open 
+2013-12-20 22:56:16 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 22:56:16 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 22:56:16 - INFO --> CC:  
+2013-12-20 22:56:16 - INFO --> BCC:  
+2013-12-20 22:56:16 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 22:56:16 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+        FROM reservations
+        WHERE reservation_id = js Unknown column 'js' in 'where clause'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = SELECT * 
+        FROM reservations
+  
+2013-12-20 22:56:17 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 22:57:00 - INFO --> -------------------------- 
+2013-12-20 22:57:00 - INFO --> Controller/Method: posts/open 
+2013-12-20 22:57:00 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 22:57:00 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 22:57:00 - INFO --> CC:  
+2013-12-20 22:57:00 - INFO --> BCC:  
+2013-12-20 22:57:00 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 22:57:00 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+        FROM reservations
+        WHERE reservation_id = js Unknown column 'js' in 'where clause'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = SELECT * 
+        FROM reservations
+  
+2013-12-20 22:57:01 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 22:57:11 - INFO --> -------------------------- 
+2013-12-20 22:57:11 - INFO --> Controller/Method: posts/open 
+2013-12-20 22:57:11 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 22:57:11 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 22:57:11 - INFO --> CC:  
+2013-12-20 22:57:11 - INFO --> BCC:  
+2013-12-20 22:57:11 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 22:57:11 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+        FROM reservations
+        WHERE reservation_id = js Unknown column 'js' in 'where clause'<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '7ceabae031ad07c2035f92fff21011d0772a03e7'
+					LIMIT 1<br>1 = SELECT * 
+        FROM reservations
+  
+2013-12-20 22:57:12 - INFO --> FAILED TO SEND EMAIL 
+2013-12-20 23:25:58 - INFO --> -------------------------- 
+2013-12-20 23:25:58 - INFO --> Controller/Method: posts/index 
+2013-12-20 23:25:58 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-20 23:25:58 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-20 23:25:58 - INFO --> CC:  
+2013-12-20 23:25:58 - INFO --> BCC:  
+2013-12-20 23:25:58 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-20 23:25:58 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+            posts.content,
+            posts.created,
+            posts.user_id AS post_user_id,
+            users_users.user_id AS follower_id,
+            users.first_name,
+            users.last_name
+        FROM posts
+        INNER JOIN users_users 
+           
+2013-12-20 23:25:59 - INFO --> FAILED TO SEND EMAIL 
