@@ -1,0 +1,159 @@
+2013-12-22 15:19:47 - INFO --> -------------------------- 
+2013-12-22 15:19:47 - INFO --> Controller/Method: reservations/p_add 
+2013-12-22 15:19:47 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-22 15:19:47 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-22 15:19:47 - INFO --> CC:  
+2013-12-22 15:19:47 - INFO --> BCC:  
+2013-12-22 15:19:47 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-22 15:19:47 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SET first_name = 'Andy', last_name = 'K', pickup_time = '1969-12-31 19:00:12', pickup_location = '10 Lexington St 02032', dropoff_location = '705 Mt Auburn 02472', vehicle_type = 'Sedan', total_amount = '236.19', payment_type = 'CreditCard', payment_Billin 
+2013-12-22 15:19:48 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 15:19:59 - INFO --> -------------------------- 
+2013-12-22 15:19:59 - INFO --> Controller/Method: reservations/p_add 
+2013-12-22 15:19:59 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-22 15:19:59 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-22 15:19:59 - INFO --> CC:  
+2013-12-22 15:19:59 - INFO --> BCC:  
+2013-12-22 15:19:59 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-22 15:19:59 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SET first_name = 'Andy', last_name = 'K', pickup_time = '1969-12-31 19:00:12', pickup_location = '10 Lexington St 02032', dropoff_location = '705 Mt Auburn 02472', vehicle_type = 'Sedan', total_amount = '236.19', payment_type = 'Cash', payment_Billing_Numb 
+2013-12-22 15:20:00 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 15:22:08 - INFO --> -------------------------- 
+2013-12-22 15:22:08 - INFO --> Controller/Method: reservations/p_add 
+2013-12-22 15:22:08 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-22 15:22:08 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-22 15:22:08 - INFO --> CC:  
+2013-12-22 15:22:08 - INFO --> BCC:  
+2013-12-22 15:22:08 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-22 15:22:08 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SET first_name = 'Andy', last_name = 'K', pickup_time = '1969-12-31 19:00:12', pickup_location = '10 Lexington St 02032', dropoff_location = '705 Mt Auburn 02472', payment_type = 'Cash', vehicle_type = 'Sedan', total_amount = '236.19', payment_Billing_Numb 
+2013-12-22 15:22:09 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 15:22:44 - INFO --> -------------------------- 
+2013-12-22 15:22:44 - INFO --> Controller/Method: reservations/p_add 
+2013-12-22 15:22:44 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-22 15:22:44 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-22 15:22:44 - INFO --> CC:  
+2013-12-22 15:22:44 - INFO --> BCC:  
+2013-12-22 15:22:44 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-22 15:22:44 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SET first_name = 'Andy', last_name = 'K', pickup_time = '1969-12-31 19:00:12', pickup_location = '10 Lexington St 02032', dropoff_location = '705 Mt Auburn 02472', payment_type = 'Cash', vehicle_type = 'Sedan', total_amount = '236.19', payment_Billing_Numb 
+2013-12-22 15:22:45 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 15:28:48 - INFO --> -------------------------- 
+2013-12-22 15:28:48 - INFO --> Controller/Method: reservations/p_add 
+2013-12-22 15:28:48 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-22 15:28:48 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-22 15:28:48 - INFO --> CC:  
+2013-12-22 15:28:48 - INFO --> BCC:  
+2013-12-22 15:28:48 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-22 15:28:48 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SET first_name = 'Andy', last_name = 'K', pickup_time = '1969-12-31 19:00:12', pickup_location = '10 Lexington St 02032', dropoff_location = '705 Mt Auburn 02472', payment_type = 'Cash', vehicle_type = 'Sedan', total_amount = '236.19', credit_car = '', use 
+2013-12-22 15:28:49 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 15:31:04 - INFO --> -------------------------- 
+2013-12-22 15:31:04 - INFO --> Controller/Method: reservations/p_add 
+2013-12-22 15:31:04 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-22 15:31:04 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-22 15:31:04 - INFO --> CC:  
+2013-12-22 15:31:04 - INFO --> BCC:  
+2013-12-22 15:31:04 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-22 15:31:04 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO reservations SET first_name = 'Andy', last_name = 'K', pickup_time = '1969-12-31 19:00:12', pickup_location = '02210', dropoff_location = '01801', payment_type = 'Cash', vehicle_type = 'Sedan', total_amount = '127.31', credit_car = '', user_id = '34', created = '138774 
+2013-12-22 15:31:05 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 16:17:09 - INFO --> -------------------------- 
+2013-12-22 16:17:09 - INFO --> Controller/Method: reservations/add 
+2013-12-22 16:17:09 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-22 16:17:09 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-22 16:17:09 - INFO --> CC:  
+2013-12-22 16:17:09 - INFO --> BCC:  
+2013-12-22 16:17:09 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-22 16:17:09 - INFO --> Body: <h2>SQL Error</h2> SELECT *
+					FROM users
+					WHERE token = '57e5f115ef2bff8ec91afcf7be79e47ea934b9f1'
+					LIMIT 1 Table 'p4_amar15_biz.users' doesn't exist<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '57e5f115ef2bff8ec91afcf7be79e47ea934b9f1'
+					LIMIT 1<br><h2>SERVER< 
+2013-12-22 16:17:10 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 16:17:12 - INFO --> -------------------------- 
+2013-12-22 16:17:12 - INFO --> Controller/Method: reservations/reservations 
+2013-12-22 16:17:12 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-22 16:17:12 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-22 16:17:12 - INFO --> CC:  
+2013-12-22 16:17:12 - INFO --> BCC:  
+2013-12-22 16:17:12 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-22 16:17:12 - INFO --> Body: <h2>SQL Error</h2> SELECT *
+					FROM users
+					WHERE token = '57e5f115ef2bff8ec91afcf7be79e47ea934b9f1'
+					LIMIT 1 Table 'p4_amar15_biz.users' doesn't exist<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '57e5f115ef2bff8ec91afcf7be79e47ea934b9f1'
+					LIMIT 1<br><h2>SERVER< 
+2013-12-22 16:17:13 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 16:17:29 - INFO --> -------------------------- 
+2013-12-22 16:17:29 - INFO --> Controller/Method: reservations/add 
+2013-12-22 16:17:29 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-22 16:17:29 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-22 16:17:29 - INFO --> CC:  
+2013-12-22 16:17:29 - INFO --> BCC:  
+2013-12-22 16:17:29 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-22 16:17:29 - INFO --> Body: <h2>SQL Error</h2> SELECT *
+					FROM users
+					WHERE token = '57e5f115ef2bff8ec91afcf7be79e47ea934b9f1'
+					LIMIT 1 Table 'p4_amar15_biz.users' doesn't exist<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '57e5f115ef2bff8ec91afcf7be79e47ea934b9f1'
+					LIMIT 1<br><h2>SERVER< 
+2013-12-22 16:17:30 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 16:17:30 - INFO --> -------------------------- 
+2013-12-22 16:17:30 - INFO --> Controller/Method: index/index 
+2013-12-22 16:17:30 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-22 16:17:30 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-22 16:17:30 - INFO --> CC:  
+2013-12-22 16:17:30 - INFO --> BCC:  
+2013-12-22 16:17:30 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-22 16:17:30 - INFO --> Body: <h2>SQL Error</h2> SELECT *
+					FROM users
+					WHERE token = '57e5f115ef2bff8ec91afcf7be79e47ea934b9f1'
+					LIMIT 1 Table 'p4_amar15_biz.users' doesn't exist<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '57e5f115ef2bff8ec91afcf7be79e47ea934b9f1'
+					LIMIT 1<br><h2>SERVER< 
+2013-12-22 16:17:31 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 16:17:36 - INFO --> -------------------------- 
+2013-12-22 16:17:36 - INFO --> Controller/Method: index/index 
+2013-12-22 16:17:36 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-22 16:17:36 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-22 16:17:36 - INFO --> CC:  
+2013-12-22 16:17:36 - INFO --> BCC:  
+2013-12-22 16:17:36 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-22 16:17:36 - INFO --> Body: <h2>SQL Error</h2> SELECT *
+					FROM users
+					WHERE token = '57e5f115ef2bff8ec91afcf7be79e47ea934b9f1'
+					LIMIT 1 Table 'p4_amar15_biz.users' doesn't exist<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '57e5f115ef2bff8ec91afcf7be79e47ea934b9f1'
+					LIMIT 1<br><h2>SERVER< 
+2013-12-22 16:17:37 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 16:18:57 - INFO --> -------------------------- 
+2013-12-22 16:18:57 - INFO --> Controller/Method: index/index 
+2013-12-22 16:18:57 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-22 16:18:57 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-22 16:18:57 - INFO --> CC:  
+2013-12-22 16:18:57 - INFO --> BCC:  
+2013-12-22 16:18:57 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-22 16:18:57 - INFO --> Body: <h2>SQL Error</h2> SELECT *
+					FROM users
+					WHERE token = '57e5f115ef2bff8ec91afcf7be79e47ea934b9f1'
+					LIMIT 1 Table 'p4_amar15_biz.users' doesn't exist<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '57e5f115ef2bff8ec91afcf7be79e47ea934b9f1'
+					LIMIT 1<br><h2>SERVER< 
+2013-12-22 16:18:58 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 16:20:44 - INFO --> -------------------------- 
+2013-12-22 16:20:44 - INFO --> Controller/Method: reservations/add 
+2013-12-22 16:20:44 - INFO --> From:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com) 
+2013-12-22 16:20:44 - INFO --> To:  CSCI E-15  P2 Blog  (amar.thatigutla@gmail.com),  
+2013-12-22 16:20:44 - INFO --> CC:  
+2013-12-22 16:20:44 - INFO --> BCC:  
+2013-12-22 16:20:44 - INFO --> Subject:  CSCI E-15  P2 Blog  SQL Error 
+2013-12-22 16:20:44 - INFO --> Body: <h2>SQL Error</h2> SELECT *
+					FROM users
+					WHERE token = '57e5f115ef2bff8ec91afcf7be79e47ea934b9f1'
+					LIMIT 1 Table 'p4_amar15_biz.users' doesn't exist<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '57e5f115ef2bff8ec91afcf7be79e47ea934b9f1'
+					LIMIT 1<br><h2>SERVER< 
+2013-12-22 16:20:45 - INFO --> FAILED TO SEND EMAIL 

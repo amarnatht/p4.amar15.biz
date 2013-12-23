@@ -1,3 +1,32 @@
+  body {
+	padding-top: 60px; 
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 14px;
+		line-height: 20px;
+		color: red;
+	background-color: #fff
+    }
+    input {
+	height: 25px !important;
+	width:250px;
+    }
+    tr {
+	border: solid black 1px;
+    }
+    td {
+	padding: 0 20px !important;
+	text-align: left !important;
+	color: #000000
+    }
+    label {
+	padding: 10px 0 0;
+    }
+    th {
+	background-color: #EBEBEB;
+	padding: 0 20px !important;
+	text-align: left !important;
+	color: #000000
+    }
 /*  to set page margins - used it in the body tag */
 #lpage {    
 width: 900px;   
@@ -10,7 +39,7 @@ top:0px;
 left: 0px; 
 background-color: #43BB75; 
 color: #fff;
-padding: .10em 6em;
+padding: 10px 6px;
 } 
 
 
@@ -44,17 +73,6 @@ background-color: #43BB75;
 }
 
 
-table
-{
-border-collapse:collapse;
-width:80%;
-}
-
-table,th, td
-{
-border: 1px solid black;
-padding:10px;
-}
 
 tr:nth-child(odd) {background-color: #ccc;}
 tr:nth-child(even) {background-color: #ddd;}
@@ -64,4 +82,24 @@ textarea{
 width: 650px;
 height:90px;
 
+}
+
+.resv {
+width:100%;
+color:#000000;
+font-family: Helvetica, Arial, sans-serif;
+
+}
+
+.error {
+color:red;
+font-weight:bold;
+}
+
+#homeDiv {
+
+}
+
+#homeDiv img{
+	margin-left: 30px;
 }
